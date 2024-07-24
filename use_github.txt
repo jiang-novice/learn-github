@@ -51,3 +51,10 @@ step 5: from github
 
     
 }
+
+
+ps:
+1. 修改现有的远程仓库地址：如果你需要修改 origin 的远程地址，可以使用 git remote set-url 命令。
+
+    git remote set-url origin new-git-url
+    其中 new-git-url 是你想要设置的新的远程仓库地址。
